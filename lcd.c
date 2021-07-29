@@ -2,7 +2,7 @@
  * lcd.c
  *
  *  Created on: Dec 6, 2020
- *      Author: daniel
+ *      Author: krystian
  */
 
 #include "lcd.h"
